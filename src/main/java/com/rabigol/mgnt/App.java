@@ -116,7 +116,7 @@ public class App {
                 int b = Integer.parseInt(a.getNodeValue());
                 resultSum = resultSum + b;
             }
-            System.out.println(resultSum);
+            System.out.println("Result = " + resultSum);
 
             preparedStatement.close();
             connection.close();
