@@ -6,8 +6,12 @@
 - С помощью XSLT конвертирует используя stylesheet файл convert.xls в новый файл 2.xml
 - Выводит сумму всех значений и время выполнения программы в секундах
 
- Для запуска нужно использовать аргументы по шаблону "N databaseUrl login password"
-  N - количество записей
-  dataBaseUrl - ссылка на базу данных в формате: "hostname:port/dbname"
-  login - логин
-  password - пароль
+Для запуска нужно использовать аргументы по шаблону "N databaseUrl login password"
+
+N - количество записей
+
+dataBaseUrl - ссылка на базу данных в формате: "hostname:port/dbname"
+
+login - логин
+
+password - пароль
